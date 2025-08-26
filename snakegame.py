@@ -15,6 +15,8 @@ print(f"welcome \n {n}")
 
 print("choices are: snake, water, gun ")
 user=input("enter your choice:")
+
+# just made it i dont know why 
 if user==a:
     print(f"its a draw  computer choose \n {a}")
 elif user=="snake" and a=="water":
@@ -38,6 +40,7 @@ elif user=="gun" and a=="water":
 
 else:
     print("something went wrong")
+
 
 
 
